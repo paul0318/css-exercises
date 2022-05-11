@@ -1,0 +1,15 @@
+.first,.second {
+    font-family: Verdana, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.first {
+    background-color: #000000;
+    color: #FFFFFF;
+    
+}
+
+.second {
+    background-color: #FFFF00;
+   
+}
